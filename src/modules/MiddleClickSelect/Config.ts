@@ -103,7 +103,7 @@ export default <VTTES.Module_Config> {
     mouseButtonIndex: 1,
   },
 
-  mods: [
+ mods: [
     {
       includes: "vtt.bundle",
 
